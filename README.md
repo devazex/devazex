@@ -1,6 +1,6 @@
 ### Hello i'm devazex! 👋
-
-- 🔭 I’m currently working on Aliens.Service
+<img src="https://avatars.githubusercontent.com/u/85168740?v=4">
+- 🔭 I’m currently working on Ali ens.Service
 - 🌱 I’m currently learning flutter
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about javascript, flutter, perl, java, html, css, etc
