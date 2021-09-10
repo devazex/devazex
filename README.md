@@ -46,4 +46,9 @@
 
 </p>
 
+## ❤ Views and Followers
+<a href="https://github.com/devazex/github-profile-views-counter">
+</a>
+<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+
 <img src="https://github-readme-stats.vercel.app/api?username=devazex&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
