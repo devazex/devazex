@@ -1,10 +1,11 @@
 ### Hello i'm devazex! 👋
 <img src="https://avatars.githubusercontent.com/u/85168740?v=4">
 
-- 🔭 I’m currently working on Aliens.Service
+- 🔭 I’m currently working on **[Aliens.Services](https://Aliens.Services/)**
 - 🌱 I’m currently learning flutter
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about javascript, flutter, perl, java, html, css, etc
+- 🔰 All of my life and about me are available at **[My Portfolio](https://devazex.xyz/)**
 - 📫 How to reach me: twitter
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: jazz music
