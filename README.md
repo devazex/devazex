@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on **[Aliens.Services](https://Aliens.Services/)**
 - 🌱 I’m currently learning flutter
 - 🤔 I’m looking for help with nothing
-- 💬 Ask me about **[Here](https://github.com/devazex#programing-language)**
 - 🔰 All of my life and about me are available at **[My Portfolio](https://devazex.com)**
 - 📫 How to reach me: twitter
 - 😄 Pronouns: He/Him
