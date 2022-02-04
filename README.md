@@ -10,7 +10,12 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: jazz music
 
-## Programing language
+---
+### ⚒ Worked on:
+- <img src="https://cdn.discordapp.com/emojis/937442941927055460.webp?size=96&quality=lossless" width="20" height="25"> [Robert](https://robert.bot/) Founder & Developer
+
+---
+<!-- ## Programing language
 
 <p align="left"> 
      <a href="https://swift.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/swift.png"/> </a>
@@ -36,7 +41,7 @@
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-</p>
+</p> -->
 
 
 ## Connect with me:
@@ -46,9 +51,5 @@
 
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/devazex/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=devazex">
-</a>
-<a href="https://github.com/devazex?tab=followers"><img src="https://img.shields.io/github/followers/devazex?label=Followers&style=social" alt="GitHub Badge"></a>
-
+### Discord Profile ✨
+![Discord](https://discord.c99.nl/widget/theme-1/754421392988045383.png)
