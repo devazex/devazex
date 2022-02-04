@@ -12,7 +12,7 @@
 
 ---
 ### ⚒ Worked on:
-- <img src="https://cdn.discordapp.com/emojis/937442941927055460.webp?size=96&quality=lossless" width="20" height="25"> [Robert](https://robert.bot/) Founder & Developer
+- <img src="https://cdn.discordapp.com/attachments/835874101457190922/939284912656232478/roberto.png" width="20" height="25"> [Robert](https://robert.bot/) Founder & Developer
 
 ---
 <!-- ## Programing language
