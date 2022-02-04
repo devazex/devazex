@@ -10,11 +10,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: jazz music
 
----
-### ⚒ Worked on:
-- <img src="https://cdn.discordapp.com/attachments/835874101457190922/939284912656232478/roberto.png" width="20" height="25"> [Robert](https://robert.bot/) Founder & Developer
-
----
 <!-- ## Programing language
 
 <p align="left"> 
