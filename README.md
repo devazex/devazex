@@ -45,5 +45,4 @@
 
 </p>
 
-### Discord Profile ✨
-![Discord](https://discord.c99.nl/widget/theme-1/754421392988045383.png)
+
